@@ -42,6 +42,8 @@
     "MyLambdaRequestAuthorizer Authorizer must specify Identity with at least one of Headers, QueryStrings, StageVariables, or Context. ",
     "Resource with id [NonDictAuthorizerApi] is invalid. ",
     "Property 'Auth.Authorizers.MyAuth' should be a map. ",
+    "Resource with id [NonDictExternalApiAuthorizer] is invalid. ",
+    "Property 'Auth.Authorizers' should be a map. ",
     "Resource with id [NonDictAuthorizerRestApi] is invalid. ",
     "Property 'Auth.Authorizers.MyAuth' should be a map. ",
     "Resource with id [NonDictExternalApiAuthorizer] is invalid. ",
